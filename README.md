@@ -25,7 +25,7 @@ python main.py
 ```
 
 ## Dataset
-The dataset used for training is sourced from [https://www.kaggle.com/datasets/camnugent/california-housing-prices?resource=download] and includes features like:
+The dataset used for this project is sourced from [https://www.kaggle.com/datasets/camnugent/california-housing-prices?resource=download] and includes features like:
 - Square footage
 - Number of bedrooms/bathrooms
 - Location (latitude/longitude)
